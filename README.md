@@ -6,6 +6,7 @@ Conozca más sobre nuestro [Diplomado de Inteligencia Artificial y Aprendizaje P
 
 ## Horarios
 Fecha: 14 – 25 de Febrero 2022 (Lunes, Miercoles Y Viernes) 
+
 Horario: 6-8 pm (hora de Colombia)
 
 ## Conferencistas
@@ -54,7 +55,9 @@ Horario: 6-8 pm (hora de Colombia)
 	Link de clase:
 
 ### Diplomado avanzado 
-Lunes, miércoles y viernes de 18-20 hs sábados 8-12 hs Telepresencial 100 horas Inscripción [aquí]([http://ciencias.bogota.unal.edu.co/index.php?id=2074](http://ciencias.bogota.unal.edu.co/index.php?id=2074))
+Lunes, miércoles y viernes de 18-20 hs sábados 8-12 hs Telepresencial 100 horas 
+
+Inscripción [aquí](http://ciencias.bogota.unal.edu.co/index.php?id=2074](http://ciencias.bogota.unal.edu.co/index.php?id=2074)
 
 
 
