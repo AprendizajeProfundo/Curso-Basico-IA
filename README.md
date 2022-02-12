@@ -2,7 +2,7 @@
 
 
 Este es un repositorio para todos aquellos interesados en acceder a los conocimientos básicos requeridos para abordar los temas de Inteligencia Artificial que se presentarán en el [Diplomado de Inteligencia Artificial y Aprendizaje Profundo - Avanzado](https://aprendizajeprofundo.co/) por medio del [Curso Básico de Inteligencia Artificial](https://aprendizajeprofundo.co/ai-basico/). 
-Conozca más sobre nuestro [Diplomado de Inteligencia Artificial y Aprendizaje Profundo - Avanzado](https://www.youtube.com/watch?v=NeuhB3peBC8&t=2s) en esta breve [introducción](https://www.youtube.com/watch?v=NeuhB3peBC8&t=102s) 
+Conozca más sobre nuestro [Diplomado de Inteligencia Artificial y Aprendizaje Profundo - Avanzado](https://www.youtube.com/watch?v=NeuhB3peBC8&t=2s) en esta breve [introducción](https://www.youtube.com/watch?v=NeuhB3peBC8&t=102s).
 
 ## Horarios
 Fecha: 14 – 25 de Febrero 2022 (Lunes, Miercoles Y Viernes) 
