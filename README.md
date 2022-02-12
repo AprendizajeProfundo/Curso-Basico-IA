@@ -57,7 +57,7 @@ Horario: 6-8 pm (hora de Colombia)
 ### Diplomado avanzado 
 Lunes, miércoles y viernes de 18-20 hs sábados 8-12 hs Telepresencial 100 horas 
 
-Inscripción [aquí](http://ciencias.bogota.unal.edu.co/index.php?id=2074](http://ciencias.bogota.unal.edu.co/index.php?id=2074)
+Inscripción [aquí](http://ciencias.bogota.unal.edu.co/index.php?id=2074)
 
 
 
