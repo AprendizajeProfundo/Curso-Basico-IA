@@ -3,6 +3,7 @@
 
 Este es un repositorio para todos aquellos interesados en acceder a los conocimientos básicos requeridos para abordar los temas de Inteligencia Artificial que se presentarán en el [Diplomado de Inteligencia Artificial y Aprendizaje Profundo - Avanzado](https://aprendizajeprofundo.co/) por medio del [Curso Básico de Inteligencia Artificial](https://aprendizajeprofundo.co/ai-basico/). 
 Conozca más sobre nuestro [Diplomado de Inteligencia Artificial y Aprendizaje Profundo - Avanzado](https://www.youtube.com/watch?v=NeuhB3peBC8&t=2s) en esta breve [introducción](https://www.youtube.com/watch?v=NeuhB3peBC8&t=102s) 
+
 ## Horarios
 Fecha: 14 – 25 de Febrero 2022 (Lunes, Miercoles Y Viernes) 
 Horario: 6-8 pm (hora de Colombia)
@@ -14,37 +15,41 @@ Horario: 6-8 pm (hora de Colombia)
 ### Colaboradoras
 - Nayibe Yesenia Arias Cortez, naariasc@unal.edu.co
 - Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
+
 ## Python
   - [Introducción a Python]()
   - [Colecciones]()
   - [Numpy]() 
   - [Pandas]()
   - [Procesamiento paralelo con Dask]()
+	
 	Link de clase:
 
 ## Redes Neuronales
   - [Introducción a redes neuronales]()
   - [Implementación en Tensorflow y Keras]()
+	
 	Link de clase:
 
 ## Pytorch
-
   - [Introducción a Programación Orientada a Objetos]()
   - [Modelación con Pytorch]()
+	
 	Link de clase:
 
-  ## Visión Artificial
-
+## Visión Artificial
   - [Modelos de Visión Artificial]()
 	Link de clase:
 
 ## Lenguaje Natural
   - [Modelos de lenguaje natural]()
+	
 	Link de clase:
 
 
 ## Aprendizaje Reforzado
   - [Modelos de aprendizaje reforzado]()
+	
 	Link de clase:
 
 ### Diplomado avanzado 
