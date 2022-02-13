@@ -17,6 +17,9 @@ Horario: 6-8 pm (hora de Colombia)
 - Nayibe Yesenia Arias Cortez, naariasc@unal.edu.co
 - Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
 
+### Enlace a las clases en vivo
+ - [Enlace por Zoom](https://us02web.zoom.us/j/86057731334?pwd=MlgvU1cwZmtXbnBBSjVodmNaTDFLQT09)
+ 
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb)
 
