@@ -18,7 +18,7 @@ Horario: 6-8 pm (hora de Colombia)
 - Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
 
 ## Introducción a la Inteligencia Artificial
-  - [El ciclo de la Inteligenicia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb)
+  - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb)
 
 ## Python
   - [Introducción a Python]()
