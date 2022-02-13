@@ -37,6 +37,8 @@ Horario: 6-8 pm (hora de Colombia)
   - [Implementación en Tensorflow y Keras]()
 	
 	Link de clase:
+## Tensorflow
+  - [Inicio rápido-subclassing](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Tensorflow-01.ipynb)
 
 ## Pytorch
   - [Introducción a Programación Orientada a Objetos]()
