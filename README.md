@@ -40,7 +40,12 @@ Horario: 6-8 pm (hora de Colombia)
 
 ## Pytorch
   - [Introducción a Programación Orientada a Objetos]()
-  - [Modelación con Pytorch]()
+  - [Inicio rápido](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_01_inicio_rapido.ipynb)
+  - [Tensores](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_02_tensores.ipynb)
+  - [Datasets](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_03_datasets.ipynb)
+  - [Transformaciones](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_04_transformaciones.ipynb)
+  - [Diferenciación automática](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_05_diferenciacion_automatica.ipynb)
+  - [Entrenando un modelo](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_06_implementacion_modelo.ipynb)
 	
 	Link de clase:
 
