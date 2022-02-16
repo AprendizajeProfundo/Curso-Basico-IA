@@ -33,8 +33,8 @@ Horario: 6-8 pm (hora de Colombia)
 	Link de clase:
 
 ## Redes Neuronales
-  - [Introducción a redes neuronales]()
-  - [Implementación en Tensorflow y Keras]()
+  - [Introducción a redes neuronales](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_02_01.slides.html), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb)
+  - [Implementación en Tensorflow y Keras](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_02.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_02_02.slides.html), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_02.ipynb)
 	
 	Link de clase:
 ## Tensorflow
