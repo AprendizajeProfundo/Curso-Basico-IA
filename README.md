@@ -30,13 +30,10 @@ Horario: 6-8 pm (hora de Colombia)
   - [Pandas]()
   - [Procesamiento paralelo con Dask]()
 	
-	Link de clase:
-
 ## Redes Neuronales
   - [Introducción a redes neuronales](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_02_01.slides.html), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb)
   - [Implementación en Tensorflow y Keras](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_02.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_02_02.slides.html), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_02.ipynb)
 	
-	Link de clase:
 ## Tensorflow
   - [Inicio rápido-subclassing](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Tensorflow-01.ipynb)
 
@@ -48,24 +45,15 @@ Horario: 6-8 pm (hora de Colombia)
   - [Transformaciones](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_04_transformaciones.ipynb)
   - [Diferenciación automática](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_05_diferenciacion_automatica.ipynb)
   - [Entrenando un modelo](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_06_implementacion_modelo.ipynb)
-	
-	Link de clase:
 
 ## Visión Artificial
   - [Modelos de Visión Artificial]()
-	
-	Link de clase:
 
 ## Lenguaje Natural
   - [Modelos de lenguaje natural]()
-	
-	Link de clase:
-
 
 ## Aprendizaje Reforzado
   - [Modelos de aprendizaje reforzado]()
-	
-	Link de clase:
 
 ### Diplomado avanzado 
 Lunes, miércoles y viernes de 18-20 hs sábados 8-12 hs Telepresencial 100 horas 
