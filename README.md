@@ -35,8 +35,7 @@ Horario: 6-8 pm (hora de Colombia)
 ## Redes Neuronales
   - [Introducción a redes neuronales]()
   - [Implementación en Tensorflow y Keras]()
-
-	[Link de clase]((https://us02web.zoom.us/j/86057731334?pwd=MlgvU1cwZmtXbnBBSjVodmNaTDFLQT09)
+  - [Enlace a la clase por Zoom](https://us02web.zoom.us/j/86057731334?pwd=MlgvU1cwZmtXbnBBSjVodmNaTDFLQT09)
 
 	
 ## Redes Neuronales
