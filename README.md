@@ -46,7 +46,7 @@ Horario: 6-8 pm (hora de Colombia)
   - [Inicio rápido-subclassing](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Tensorflow-01.ipynb)
 
 ## Pytorch
-  - [Introducción a Programación Orientada a Objetos](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_03.ipynb)
+  - [Introducción a Programación Orientada a Objetos](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_03.ipynb)
   - [Inicio rápido](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_01_inicio_rapido.ipynb)
   - [Tensores](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_02_tensores.ipynb)
   - [Datasets](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_03_datasets.ipynb)
