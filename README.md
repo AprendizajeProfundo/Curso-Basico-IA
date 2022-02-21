@@ -37,15 +37,13 @@ Horario: 6-8 pm (hora de Colombia)
   - [Implementación en Tensorflow y Keras]()
   - [Enlace a la clase por Zoom](https://us02web.zoom.us/j/86057731334?pwd=MlgvU1cwZmtXbnBBSjVodmNaTDFLQT09)
 
-<<<<<<< HEAD
-	Link de clase:
-=======
+
 	
 ## Redes Neuronales
   - [Introducción a redes neuronales](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_02_01.slides.html), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb)
   - [Implementación en Tensorflow y Keras](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_02.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_02_02.slides.html), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_02.ipynb)
 	
->>>>>>> d181ada3f32ed02c7d680642ee1ad109e91ea9d5
+
 ## Tensorflow
   - [Inicio rápido-subclassing](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Tensorflow-01.ipynb)
 
@@ -57,42 +55,24 @@ Horario: 6-8 pm (hora de Colombia)
   - [Transformaciones](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_04_transformaciones.ipynb)
   - [Diferenciación automática](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_05_diferenciacion_automatica.ipynb)
   - [Entrenando un modelo](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_06_implementacion_modelo.ipynb)
-<<<<<<< HEAD
-=======
-
->>>>>>> d181ada3f32ed02c7d680642ee1ad109e91ea9d5
 
 	Link de clase:
 
 ## Visión Artificial
   - [Modelos de Visión Artificial]()
 
-	Link de clase:
 
 ## Lenguaje Natural
   - [Modelos de lenguaje natural]()
 
-	Link de clase:
+	
 
 
 ## Aprendizaje Reforzado
-  - [Modelos de aprendizaje reforzado]()
+  - [Introducción al aprendizaje reforzado](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_01.ipynb.ipynb)
+  - [Ejemplo de Aprendizaje Reforzado: Entropía cruzada](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb)
 
-	Link de clase:
-<<<<<<< HEAD
-=======
-
-
-## Visión Artificial
-  - [Modelos de Visión Artificial]()
-
-## Lenguaje Natural
-  - [Modelos de lenguaje natural]()
-
-## Aprendizaje Reforzado
-  - [Modelos de aprendizaje reforzado]()
-
->>>>>>> d181ada3f32ed02c7d680642ee1ad109e91ea9d5
+	
 
 ### Diplomado avanzado
 Lunes, miércoles y viernes de 18-20 hs sábados 8-12 hs Telepresencial 100 horas
