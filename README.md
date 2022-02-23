@@ -68,8 +68,8 @@ Horario: 6-8 pm (hora de Colombia)
   - Ejemplo de Aprendizaje Reforzado: Entropía cruzada [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb)
 
 	
-
-### Diplomado avanzado
+___
+# Diplomado avanzado
 Lunes, miércoles y viernes de 18-20 hs sábados 8-12 hs Telepresencial 100 horas
 
 Inscripción [aquí](http://ciencias.bogota.unal.edu.co/index.php?id=2074)
