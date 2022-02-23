@@ -57,7 +57,8 @@ Horario: 6-8 pm (hora de Colombia)
 
 
 ## Lenguaje Natural
-  - [Modelos de lenguaje natural]()
+  - Modelos de lenguaje natural [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_01.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_05_01.slides.html)
+  - Aplicaciones [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_02.ipynb) [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_02.ipynb)
 
 	
 
