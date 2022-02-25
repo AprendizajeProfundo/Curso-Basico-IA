@@ -65,7 +65,7 @@ Horario: 6-8 pm (hora de Colombia)
 
 ## Aprendizaje Reforzado
   - Introducción al aprendizaje reforzado [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_01.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_01.ipynb.ipynb) [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_06_01.ipynb.slides.html#/17/2)
-  - Ejemplo de Aprendizaje Reforzado: Entropía cruzada [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb)
+  - Ejemplo de Aprendizaje Reforzado: Entropía cruzada [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [slides](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_06_02.ipynb.slides.html)
 
 	
 ___
