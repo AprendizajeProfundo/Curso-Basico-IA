@@ -17,8 +17,8 @@ Horario: 6-8 pm (hora de Colombia)
 - Nayibe Yesenia Arias Cortez, naariasc@unal.edu.co
 - Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
 
-### Enlace a las clases en vivo
- - [Enlace por Zoom](https://us02web.zoom.us/j/86057731334?pwd=MlgvU1cwZmtXbnBBSjVodmNaTDFLQT09)
+### Syllabus curso UNAL
+- Syllabus [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb)
 
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
