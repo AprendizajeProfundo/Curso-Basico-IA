@@ -1,21 +1,16 @@
 # Curso básico de Inteligencia Artificial
 
 
-Este es un repositorio para todos aquellos interesados en acceder a los conocimientos básicos requeridos para abordar los temas de Inteligencia Artificial que se presentarán en el [Diplomado de Inteligencia Artificial y Aprendizaje Profundo - Avanzado](https://aprendizajeprofundo.co/) por medio del [Curso Básico de Inteligencia Artificial](https://aprendizajeprofundo.co/ai-basico/).
-Conozca más sobre nuestro [Diplomado de Inteligencia Artificial y Aprendizaje Profundo - Avanzado](https://www.youtube.com/watch?v=NeuhB3peBC8&t=2s) en esta breve [introducción](https://www.youtube.com/watch?v=NeuhB3peBC8&t=102s).
+Este es un repositorio para todos aquellos interesados en acceder a los conocimientos básicos requeridos para abordar los temas de Inteligencia Artificial. `ste curso es dictado en el Departamento de Estadística de la Univarsidad Nacional de Colombia.`
+
 
 ## Horarios
-Fecha: 14 – 25 de Febrero 2022 (Lunes, Miercoles Y Viernes)
+Fecha: marzo 7 2022 - julio 2 de 2022
+(lunes, miercoles)
+Horario: 9-11 am (hora de Colombia)
 
-Horario: 6-8 pm (hora de Colombia)
-
-## Conferencistas
+## Profesor
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co
-- Oleg Jarma Montoya ojarmam@unal.edu.co
-- Daniel Mauricio Montenegro Reyes, MSc, dextronomo@gmail.com
-### Colaboradoras
-- Nayibe Yesenia Arias Cortez, naariasc@unal.edu.co
-- Venus Celeste Puertas Gualtero, vpuertasg@unal.edu.co
 
 ### Syllabus curso UNAL
 - Syllabus [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb)
@@ -23,14 +18,19 @@ Horario: 6-8 pm (hora de Colombia)
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
 
+### Herramientas del curso
+- [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
+- [Herramientas Digitales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
+
+
 ## Python
   - [Introducción a Python](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_01_intro.ipynb)
   - [Colecciones](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_02_colecciones.ipynb)
+  - [Concepto de Clase en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
+   - [Decoradores en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Decorators.ipynb)
   - [Numpy](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_03_numpy.ipynb)
   - [Pandas](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_04_pandas.ipynb)
-  - [Procesamiento paralelo con Dask]()
-
-	[Link de clase](https://www.youtube.com/watch?v=y93yOCnylqM)
+  - [Procesamiento paralelo con Dask](https://nbviewer.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/01_dask_delayed_am.ipynb)
 
 	
 ## Redes Neuronales
