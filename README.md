@@ -50,7 +50,7 @@ Horario: 9-11 am (hora de Colombia)
   - [Diferenciación automática](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_05_diferenciacion_automatica.ipynb)
   - [Entrenando un modelo](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_06_implementacion_modelo.ipynb)
 
-	Link de clase:
+	
 
 ## Visión Artificial
   - [Modelos de Visión Artificial]()
