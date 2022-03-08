@@ -15,6 +15,7 @@ Horario: 9-11 am (hora de Colombia)
 ### Syllabus curso UNAL
 - Syllabus [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb)
 
+___
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
 
@@ -69,7 +70,3 @@ Horario: 9-11 am (hora de Colombia)
 
 	
 ___
-# Diplomado avanzado
-Lunes, miércoles y viernes de 18-20 hs sábados 8-12 hs Telepresencial 100 horas
-
-Inscripción [aquí](http://ciencias.bogota.unal.edu.co/index.php?id=2074)
