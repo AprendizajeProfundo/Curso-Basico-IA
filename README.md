@@ -5,7 +5,7 @@ Este es un repositorio para todos aquellos interesados en acceder a los conocimi
 
 
 ## Horarios
-Fecha: marzo 7 2022 - julio 2 de 2022
+Fecha: marzo 7 de 2022 - julio 2 de 2022
 (lunes, miercoles)
 Horario: 9-11 am (hora de Colombia)
 
@@ -15,7 +15,7 @@ Horario: 9-11 am (hora de Colombia)
 ### Syllabus curso UNAL
 - Syllabus [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb)
 
-___
+
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
 
