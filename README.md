@@ -11,7 +11,7 @@ Horario: 18-20 am (hora de Colombia)
 
 ## Profesores
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co
-- Daniel Montenegro, Msc, dextronomo@gmail.com
+- Daniel Mauricio Montenegro Reyes, Msc, dextronomo@gmail.com
 
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
