@@ -49,7 +49,9 @@ Horario: 18-20 am (hora de Colombia)
 	
 
 ## Visión Artificial
-  - [Modelos de Visión Artificial]()
+  - Modelos de Visión Artificial:
+  	- Parte 1, [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_01.ipynb), , [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_01.ipynb), [Slides]()
+	- Parte 2, [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_02.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_02.ipynb), [Slides]()
 
 
 ## Lenguaje Natural
