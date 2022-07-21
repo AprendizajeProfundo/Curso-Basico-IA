@@ -5,16 +5,13 @@ Este es un repositorio para todos aquellos interesados en acceder a los conocimi
 
 
 ## Horarios
-Fecha: marzo 7 de 2022 - julio 2 de 2022
-(lunes, miercoles)
-Horario: 9-11 am (hora de Colombia)
+Fecha: juli0 21, julio 22 de 2022 
+(jueves, viernes)
+Horario: 18-20 am (hora de Colombia)
 
-## Profesor
+## Profesores
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co
-
-### Syllabus curso UNAL
-- Syllabus [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/IA_Syllabus_UNAL.ipynb)
-
+- Daniel MOntenegro, Msc, dextronomo@gmail.com
 
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
@@ -59,7 +56,7 @@ Horario: 9-11 am (hora de Colombia)
 
 ## Lenguaje Natural
   - Modelos de lenguaje natural [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_01.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_05_01.slides.html)
-  - Aplicaciones [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_02.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_02.ipynb)
+  - Aplicaciones - Huggingface [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
 
 	
 
