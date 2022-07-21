@@ -1,8 +1,6 @@
 # Curso básico de Inteligencia Artificial
 
-
-Este es un repositorio para todos aquellos interesados en acceder a los conocimientos básicos requeridos para abordar los temas de Inteligencia Artificial. `ste curso es dictado en el Departamento de Estadística de la Univarsidad Nacional de Colombia.`
-
+Este es un repositorio para todos aquellos interesados en acceder a los conocimientos básicos requeridos para abordar los temas de Inteligencia Artificial. 
 
 ## Horarios
 Fecha: juli0 21, julio 22 de 2022 
