@@ -3,7 +3,7 @@
 Este es un repositorio para todos aquellos interesados en acceder a los conocimientos básicos requeridos para abordar los temas de Inteligencia Artificial. 
 
 ## Horarios
-Fecha: juli0 21, julio 22 de 2022 
+Fecha: julio 21, julio 22 de 2022 
 (jueves, viernes)
 Horario: 18-20 am (hora de Colombia)
 
