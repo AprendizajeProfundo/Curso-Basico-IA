@@ -3,13 +3,14 @@
 Este es un repositorio para todos aquellos interesados en acceder a los conocimientos básicos requeridos para abordar los temas de Inteligencia Artificial. 
 
 ## Horarios
-Fecha: julio 21, julio 22 de 2022 
+Fecha: marzo 13, 14, 15, 16 y 17 de 2023 
 (jueves, viernes)
 Horario: 18-20 am (hora de Colombia)
 
 ## Profesores
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co
 - Daniel Mauricio Montenegro Reyes, Msc, dextronomo@gmail.com
+- Camilo José Torres, Msc, cjtorresj@unal.edu.co 
 
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
@@ -23,11 +24,7 @@ Horario: 18-20 am (hora de Colombia)
   - [Introducción a Python](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_01_intro.ipynb)
   - [Colecciones](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_02_colecciones.ipynb)
   - [Concepto de Clase en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
-   - [Decoradores en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Decorators.ipynb)
-  - [Numpy](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_03_numpy.ipynb)
-  - [Pandas](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_04_pandas.ipynb)
-  - [Procesamiento paralelo con Dask](https://nbviewer.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/01_dask_delayed_am.ipynb)
-
+   
 	
 ## Redes Neuronales
   - [Introducción a redes neuronales](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_02_01.slides.html), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb)
