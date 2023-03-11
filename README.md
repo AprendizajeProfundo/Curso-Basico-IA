@@ -1,7 +1,7 @@
 # Curso básico de Inteligencia Artificial
 
 Este es un repositorio para todos aquellos interesados en acceder a los conocimientos básicos requeridos para abordar los temas de Inteligencia Artificial. 
-Cambios test.
+
 ## Horarios
 Fecha: marzo 13, 14, 15, 16 y 17 de 2023 
 (lunes a viernes)
