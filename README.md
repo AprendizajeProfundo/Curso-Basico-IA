@@ -4,13 +4,13 @@ Este es un repositorio para todos aquellos interesados en acceder a los conocimi
 
 ## Horarios
 Fecha: marzo 13, 14, 15, 16 y 17 de 2023 
-(jueves, viernes)
-Horario: 18-20 am (hora de Colombia)
+(lunes a viernes)
+Horario: 18:00 - 20:00 (hora de Colombia)
 
 ## Profesores
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co
 - Daniel Mauricio Montenegro Reyes, Msc, dextronomo@gmail.com
-- Camilo José Torres, Msc, cjtorresj@unal.edu.co 
+- Camilo José Torres Jiménez, Msc, cjtorresj@unal.edu.co 
 
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
@@ -47,7 +47,7 @@ Horario: 18-20 am (hora de Colombia)
 
 ## Visión Artificial
   - Modelos de Visión Artificial:
-  	- Parte 1, [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_01.ipynb), , [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_04_01.slides.html)
+  	- Parte 1, [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_01.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_04_01.slides.html)
 	- Parte 2, [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_02.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_02.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_04_02.slides.html)
 
 
@@ -59,8 +59,8 @@ Horario: 18-20 am (hora de Colombia)
 
 
 ## Aprendizaje Reforzado
-  - Introducción al aprendizaje reforzado [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_01.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_01.ipynb.ipynb) [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_06_01.ipynb.slides.html#/17/2)
-  - Ejemplo de Aprendizaje Reforzado: Entropía cruzada [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [slides](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_06_02.ipynb.slides.html)
+  - Introducción al aprendizaje reforzado [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_01.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_01.ipynb.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_06_01.ipynb.slides.html#/17/2)
+  - Ejemplo de Aprendizaje Reforzado: Entropía cruzada [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [Slides](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_06_02.ipynb.slides.html)
 
 	
 ___
