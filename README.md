@@ -19,9 +19,9 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 
 ## Introducción a la Inteligencia Artificial  [[Sesión de Youtube]](https://www.youtube.com/watch?v=nBBTG7u2fIU)
 
-  - [Claves de su Desarrollo](./clase_1_ia/cuadernos/ap_IA_Claves_Desarrollo.ipynb), [slides]()
-  - [Estado del Arte](./clase_1_ia/cuadernos/ap_IA_Estado_del_Arte.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/dmmontenegror_dev/clase_1_ia/presentaciones/ap_IA_Estado_del_Arte.slides.html)
-  - [Roles en la Ciencia de Datos](./clase_1_ia/cuadernos/ap_Roles_Data_science.ipynb), [slides]()
+  - [Claves de su Desarrollo](./clase_1_ia/cuadernos/ap_IA_Claves_Desarrollo.ipynb), slides
+  - [Estado del Arte](./clase_1_ia/cuadernos/ap_IA_Estado_del_Arte.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/clase_1_ia/presentaciones/ap_IA_Estado_del_Arte.slides.html)
+  - [Roles en la Ciencia de Datos](./clase_1_ia/cuadernos/ap_Roles_Data_science.ipynb), slides
 
 ### Herramientas del curso
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
