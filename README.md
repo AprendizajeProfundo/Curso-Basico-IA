@@ -14,16 +14,17 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 
 ## Introducción a la Inteligencia Artificial
   - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
+  - [Estado del Arte](./clase_1_ia/cuadernos/ap_IA_Estado_del_Arte.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/dmmontenegror_dev/clase_1_ia/presentaciones/ap_IA_Estado_del_Arte.slides.html)
 
 ### Herramientas del curso
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
-- [Herramientas Digitales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
+- [Herramientas Digitales](./clase_1_ia/cuadernos/ap_Herramientas_Digitales.ipynb)
 
 
 ## Python
-  - [Introducción a Python](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_01_intro.ipynb)
-  - [Colecciones](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Python_02_colecciones.ipynb)
-  - [Concepto de Clase en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
+  - [Introducción a Python](./clase_2_python/cuadernos/py_01_intro_python.ipynb), [slides]()
+  - [Colecciones](./clase_2_python/cuadernos/py_02_colecciones.ipynb), [slides]()
+  - [Concepto de Clase en Python](./clase_2_python/cuadernos/py_03_intro_clases.ipynb), [slides]()
    
 	
 ## Redes Neuronales
