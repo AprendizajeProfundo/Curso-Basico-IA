@@ -18,7 +18,7 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 
 ### Herramientas del curso
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
-- [Herramientas Digitales](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/2.%20Desarrollo%20en%20la%20nube/Cuadernos/Herramientas_Digitales.ipynb#Contenido)
+- [Herramientas Digitales](./clase_1_ia/cuadernos/ap_Herramientas_Digitales.ipynb)
 
 
 ## Python
