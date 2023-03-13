@@ -17,9 +17,7 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 - Camilo José Torres Jiménez, Msc, cjtorresj@unal.edu.co 
 - Daniel Mauricio Montenegro Reyes, Msc, dextronomo@gmail.com
 
-## Introducción a la Inteligencia Artificial
-
- - [Link de Youtube](https://www.youtube.com/watch?v=nBBTG7u2fIU)
+## Introducción a la Inteligencia Artificial [Sesión de Youtube](https://www.youtube.com/watch?v=nBBTG7u2fIU)
 
   - [Claves de su Desarrollo](./clase_1_ia/cuadernos/ap_IA_Claves_Desarrollo.ipynb), [slides]()
   - [Estado del Arte](./clase_1_ia/cuadernos/ap_IA_Estado_del_Arte.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/dmmontenegror_dev/clase_1_ia/presentaciones/ap_IA_Estado_del_Arte.slides.html)
