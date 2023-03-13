@@ -1,1 +1,1 @@
-
+Imágenes de la introducción
