@@ -9,8 +9,8 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 
 ## Profesores
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co
-- Daniel Mauricio Montenegro Reyes, Msc, dextronomo@gmail.com
 - Camilo José Torres Jiménez, Msc, cjtorresj@unal.edu.co 
+- Daniel Mauricio Montenegro Reyes, Msc, dextronomo@gmail.com
 
 ## Introducción a la Inteligencia Artificial
 
