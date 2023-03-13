@@ -13,8 +13,9 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 - Camilo José Torres Jiménez, Msc, cjtorresj@unal.edu.co 
 
 ## Introducción a la Inteligencia Artificial
-  - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_00.slides.html#/1)
+  - [El ciclo de la Inteligencia Artificial](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_00.ipynb), [slides]()
   - [Estado del Arte](./clase_1_ia/cuadernos/ap_IA_Estado_del_Arte.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/dmmontenegror_dev/clase_1_ia/presentaciones/ap_IA_Estado_del_Arte.slides.html)
+  - [Roles en la Ciencia de Datos](./clase_1_ia/cuadernos/ap_Roles_Data_science.ipynb), [slides]()
 
 ### Herramientas del curso
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
