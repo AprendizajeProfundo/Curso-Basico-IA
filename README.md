@@ -7,12 +7,17 @@ Fecha: marzo 13, 14, 15, 16 y 17 de 2023
 (lunes a viernes)
 Horario: 18:00 - 20:00 (hora de Colombia)
 
+## Links importantes
+- [Inscripción al Diplomado](http://ciencias.bogota.unal.edu.co/index.php?id=3373)
+- [Pago virtual del Diplomado](https://gateway1.ecollect.co/eCollectPlus/Selling/Services.aspx)
+- [Inscripción al Minicurso e información del diplomado](https://diplo-basico.aprendizajeprofundo.co)
+
 ## Profesores
 - Álvaro Mauricio Montenegro Díaz, PhD, ammontenegrod@unal.edu.co
 - Camilo José Torres Jiménez, Msc, cjtorresj@unal.edu.co 
 - Daniel Mauricio Montenegro Reyes, Msc, dextronomo@gmail.com
 
-## Introducción a la Inteligencia Artificial
+## Introducción a la Inteligencia Artificial  [[Sesión de Youtube]](https://www.youtube.com/watch?v=nBBTG7u2fIU)
 
   - [Claves de su Desarrollo](./clase_1_ia/cuadernos/ap_IA_Claves_Desarrollo.ipynb), [slides]()
   - [Estado del Arte](./clase_1_ia/cuadernos/ap_IA_Estado_del_Arte.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/dmmontenegror_dev/clase_1_ia/presentaciones/ap_IA_Estado_del_Arte.slides.html)
