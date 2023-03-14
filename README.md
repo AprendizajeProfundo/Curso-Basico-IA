@@ -29,9 +29,9 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 
 
 ## Python
-  - [Introducción a Python](./clase_2_python/cuadernos/py_01_intro_python.ipynb), [slides]()
-  - [Colecciones](./clase_2_python/cuadernos/py_02_colecciones.ipynb), [slides]()
-  - [Concepto de Clase en Python](./clase_2_python/cuadernos/py_03_intro_clases.ipynb), [slides]()
+  - [Introducción a Python](./clase_2_python/cuadernos/py_01_intro_python.ipynb), slides
+  - [Colecciones](./clase_2_python/cuadernos/py_02_colecciones.ipynb), slides
+  - [Concepto de Clase en Python](./clase_2_python/cuadernos/py_03_intro_clases.ipynb), slides
    
 	
 ## Redes Neuronales
