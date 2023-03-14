@@ -35,40 +35,36 @@ Horario: 18:00 - 20:00 (hora de Colombia)
    
 	
 ## Redes Neuronales
-  - [Introducción a redes neuronales](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_02_01.slides.html), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_01.ipynb)
-  - [Implementación en Tensorflow y Keras](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_02.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_02_02.slides.html), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_02_02.ipynb)
+  - Introducción a redes neuronales, slides , GitHub
+  - Implementación en Tensorflow y Keras, slides, GitHub
 	
 
 ## Tensorflow
-  - [Inicio rápido-subclassing](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Tensorflow-01.ipynb)
+  - Inicio rápido-subclassing
 
 ## Pytorch
-  - [Introducción a Programación Orientada a Objetos](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_03.ipynb)
-  - [Inicio rápido](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_01_inicio_rapido.ipynb)
-  - [Tensores](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_02_tensores.ipynb)
-  - [Datasets](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_03_datasets.ipynb)
-  - [Transformaciones](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_04_transformaciones.ipynb)
-  - [Diferenciación automática](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_05_diferenciacion_automatica.ipynb)
-  - [Entrenando un modelo](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Pythorch_06_implementacion_modelo.ipynb)
+  - Introducción a Programación Orientada a Objetos
+  - Inicio rápido
+  - Tensores
+  - Datasets
+  - Transformaciones
+  - Diferenciación automática
+  - Entrenando un modelo
 
 	
 
 ## Visión Artificial
   - Modelos de Visión Artificial:
-  	- Parte 1, [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_01.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_04_01.slides.html)
-	- Parte 2, [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_02.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_04_02.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_04_02.slides.html)
+  	- Parte 1, Slides
+	- Parte 2, Slides
 
 
 ## Lenguaje Natural
-  - Modelos de lenguaje natural [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_01.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Minicurso_IA_05_01.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Minicurso_IA_05_01.slides.html)
-  - Aplicaciones - Huggingface [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb), [GitHub](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/nlp_HuggingFace_01_pipeline.ipynb)
-
+  - Modelos de lenguaje natural
+  - Aplicaciones - Huggingface
 	
 
 
 ## Aprendizaje Reforzado
-  - Introducción al aprendizaje reforzado [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_01.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_01.ipynb.ipynb), [Slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_06_01.ipynb.slides.html#/17/2)
-  - Ejemplo de Aprendizaje Reforzado: Entropía cruzada [Github](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [nbviewer](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/Cuadernos/Mincurso_IA_06_02.ipynb.ipynb), [Slides](https://github.com/AprendizajeProfundo/Curso-Basico-IA/blob/main/Presentaciones/Mincurso_IA_06_02.ipynb.slides.html)
-
-	
-___
+  - Introducción al aprendizaje reforzado
+  - Ejemplo de Aprendizaje Reforzado: Entropía cruzada
