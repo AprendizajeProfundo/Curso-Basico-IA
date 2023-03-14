@@ -29,7 +29,7 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 
 
 ## Python
-  - [Introducción a Python](./clase_2_python/cuadernos/py_01_intro_python.ipynb), slides
+  - [Introducción a Python](./clase_2_python/cuadernos/py_01_intro_python.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/clase_2_python/presentaciones/py_01_intro_python.slides.html#/)
   - [Colecciones](./clase_2_python/cuadernos/py_02_colecciones.ipynb), slides
   - [Concepto de Clase en Python](./clase_2_python/cuadernos/py_03_intro_clases.ipynb), slides
    
