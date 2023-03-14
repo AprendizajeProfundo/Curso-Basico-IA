@@ -9,7 +9,7 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 
 ## Links importantes
 - [Inscripción al Diplomado](http://ciencias.bogota.unal.edu.co/index.php?id=3373)
-- [Pago virtual del Diplomado](https://gateway1.ecollect.co/eCollectPlus/SignIn.aspx)
+- [Pago virtual del Diplomado](http://www.pagovirtual.unal.edu.co/index.php)
 - [Inscripción al Minicurso e información del diplomado](https://diplo-basico.aprendizajeprofundo.co)
 
 ## Profesores
