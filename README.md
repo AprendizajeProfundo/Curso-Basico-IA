@@ -35,7 +35,7 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 
 ## Visión Artificial [[Sesión de Youtube]](https://www.youtube.com/watch?v=0KfcQVfwckw)
 
-  - [Modelos de Visión Artificial, Parte 1](./clase_3_vision/cuadernos/vc_01_intro.ipynb), slides
+  - [Modelos de Visión Artificial, Parte 1](./clase_3_vision/cuadernos/vc_03_convolucion_definicion.ipynb), slides
   - [Modelos de Visión Artificial, Parte 2](./clase_3_vision/cuadernos/vc_02_arq.ipynb), slides
 
 ## Lenguaje Natural
