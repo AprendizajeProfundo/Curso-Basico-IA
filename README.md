@@ -55,9 +55,8 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 	
 
 ## Visión Artificial
-  - Modelos de Visión Artificial:
-  	- Parte 1
-	- Parte 2
+  - Modelos de Visión Artificial, Parte 1
+  - Modelos de Visión Artificial, Parte 2
 
 
 ## Lenguaje Natural
