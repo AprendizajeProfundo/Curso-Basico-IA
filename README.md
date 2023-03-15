@@ -33,10 +33,10 @@ Horario: 18:00 - 20:00 (hora de Colombia)
   - [Colecciones](./clase_2_python/cuadernos/py_02_colecciones.ipynb)
   - [Concepto de Clase en Python](./clase_2_python/cuadernos/py_03_intro_clases.ipynb)
 
-## Visión Artificial
+## Visión Artificial [[Sesión de Youtube]](https://www.youtube.com/watch?v=0KfcQVfwckw)
+
   - [Modelos de Visión Artificial, Parte 1](./clase_3_vision/cuadernos/vc_01_intro.ipynb), slides
   - [Modelos de Visión Artificial, Parte 2](./clase_3_vision/cuadernos/vc_02_arq.ipynb), slides
-
 
 ## Lenguaje Natural
   - Modelos de lenguaje natural
@@ -46,14 +46,16 @@ Horario: 18:00 - 20:00 (hora de Colombia)
   - Introducción al aprendizaje reforzado
   - Ejemplo de Aprendizaje Reforzado: Entropía cruzada
 
-## Redes Neuronales
+## Material Adicional
+
+### Redes Neuronales
   - Introducción a redes neuronales
   - Implementación en Tensorflow y Keras
 	
-## Tensorflow
+### Tensorflow
   - Inicio rápido-subclassing
 
-## Pytorch
+### Pytorch
   - Introducción a Programación Orientada a Objetos
   - Inicio rápido
   - Tensores
