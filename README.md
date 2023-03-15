@@ -27,19 +27,29 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 - [Instalación de Anaconda (Video)](https://www.youtube.com/watch?v=tXekbwrgxL0)
 - [Herramientas Digitales](./clase_1_ia/cuadernos/ap_Herramientas_Digitales.ipynb)
 
-
 ## Python [[Sesión de Youtube]](https://www.youtube.com/watch?v=NJGtJpQvh_w)
 
   - [Introducción a Python](./clase_2_python/cuadernos/py_01_intro_python.ipynb), [slides](https://nbviewer.org/github/AprendizajeProfundo/Curso-Basico-IA/blob/main/clase_2_python/presentaciones/py_01_intro_python.slides.html#/)
   - [Colecciones](./clase_2_python/cuadernos/py_02_colecciones.ipynb)
   - [Concepto de Clase en Python](./clase_2_python/cuadernos/py_03_intro_clases.ipynb)
-   
+
+## Visión Artificial
+  - [Modelos de Visión Artificial, Parte 1](./clase_3_vision/cuadernos/vc_01_intro.ipynb), slides
+  - [Modelos de Visión Artificial, Parte 2](./clase_3_vision/cuadernos/vc_02_arq.ipynb), slides
+
+
+## Lenguaje Natural
+  - Modelos de lenguaje natural
+  - Aplicaciones - Huggingface
 	
+## Aprendizaje Reforzado
+  - Introducción al aprendizaje reforzado
+  - Ejemplo de Aprendizaje Reforzado: Entropía cruzada
+
 ## Redes Neuronales
   - Introducción a redes neuronales
   - Implementación en Tensorflow y Keras
 	
-
 ## Tensorflow
   - Inicio rápido-subclassing
 
@@ -51,20 +61,3 @@ Horario: 18:00 - 20:00 (hora de Colombia)
   - Transformaciones
   - Diferenciación automática
   - Entrenando un modelo
-
-	
-
-## Visión Artificial
-  - Modelos de Visión Artificial, Parte 1
-  - Modelos de Visión Artificial, Parte 2
-
-
-## Lenguaje Natural
-  - Modelos de lenguaje natural
-  - Aplicaciones - Huggingface
-	
-
-
-## Aprendizaje Reforzado
-  - Introducción al aprendizaje reforzado
-  - Ejemplo de Aprendizaje Reforzado: Entropía cruzada
