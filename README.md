@@ -43,7 +43,7 @@ Horario: 18:00 - 20:00 (hora de Colombia)
   - [Modelos de lenguaje natural](./clase_4_nlp/cuadernos/nlp_intro.ipynb), slides
   - [Aplicaciones - Huggingface](./clase_4_nlp/cuadernos/nlp_HuggingFace_01_pipeline.ipynb), slides
 	
-## Aprendizaje Reforzado [[Sesión de Youtube]](https://www.youtube.com/watch?v=zJBIe0QSZjM)
+## Aprendizaje Reforzado [[Sesión de Youtube]](https://www.youtube.com/watch?v=kBvWS5F8d1k)
 
   - [Introducción al aprendizaje reforzado](./clase_5_rl/cuadernos/rl_01_intro.ipynb), slides
   - [Ejemplo de Aprendizaje Reforzado: Entropía cruzada](./clase_5_rl/cuadernos/rl_02_ejemplo.ipynb), slides
