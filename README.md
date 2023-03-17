@@ -40,8 +40,8 @@ Horario: 18:00 - 20:00 (hora de Colombia)
 
 ## Lenguaje Natural [[Sesión de Youtube]](https://www.youtube.com/watch?v=zJBIe0QSZjM)
 
-  - [Modelos de lenguaje natural](./clase_4_python/cuadernos/nlp_HuggingFace_01_pipeline.ipynb), slides
-  - [Aplicaciones - Huggingface](./clase_4_python/cuadernos/nlp_intro.ipynb), slides
+  - [Modelos de lenguaje natural](./clase_4_nlp/cuadernos/nlp_intro.ipynb), slides
+  - [Aplicaciones - Huggingface](./clase_4_nlp/cuadernos/nlp_HuggingFace_01_pipeline.ipynb), slides
 	
 ## Aprendizaje Reforzado
   - Introducción al aprendizaje reforzado
